@@ -1,6 +1,6 @@
 {
   "name": "wod-data-vampire",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wod character vampire data",
   "keywords": [
     "wod"
@@ -16,7 +16,7 @@
   "author": "Jehy",
   "license": "MIT",
   "dependencies": {
-    "wod-data-base": "git+https://github.com/charsheet-su/wod-data-base.git#0.0.1"
+    "wod-data-base": "git+https://github.com/charsheet-su/wod-data-base.git#0.0.2"
   },
   "devDependencies": {
     "eslint": "^5.13.0",
